@@ -1,0 +1,28 @@
+body {
+  background-color: #72FFFF;
+}
+hr {
+  border-color: #874C62;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+
+}
+img{
+  height: 500px;
+}
+h1 {
+    font-weight: 100;
+  font-family: cursive;
+  font-style: oblique;
+  color: #5800FF;
+}
+h2{
+  font-weight: 500;
+  color: #0096FF;
+}
+h3 {
+    font-weight: 500;
+  color: #0096FF;
+}
